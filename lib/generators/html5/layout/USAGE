@@ -1,0 +1,8 @@
+Description:
+    Installs a new html5-rails layout in /app/views/layouts
+
+Example:
+    rails generate html5:layout my_new_layout
+
+    This will create:
+        app/views/layouts/my_new_layout.html.(erb|haml|slim)
